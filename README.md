@@ -15,5 +15,5 @@ As an illustrative example, the following figure shows the visualized decision t
 ![heart disease](./images/heart_data_c45.png)  
 :**Heart disease assertion**:
 
-To run benchmark examples, run  
+**To run benchmark examples**  
     python main_script.py  
