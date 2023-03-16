@@ -13,7 +13,7 @@ A C4.5 decision tree class is implemented using recursive approach in the file "
 
 As an illustrative example, the following figure shows the visualized decision tree for the first problem:  
 ![heart disease](./images/heart_data_c45.png)
-<p style="text-align: center;">**Heart disease judgement**</p>
+<p style="text-align: center;">Heart disease judgement</p>
 
 To run benchmark examples, run
     python main_script.py
