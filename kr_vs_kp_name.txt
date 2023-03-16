@@ -1,0 +1,37 @@
+won, nowin
+bkblk: f, t
+bknwy: f, t
+bkon8: f, t
+bkona: f, t
+bkspr: f, t
+bkxbq: f, t
+bkxcr: f, t
+bkxwp: f, t
+blxwp: f, t
+bxqsq: f, t
+cntxt: f, t
+dsopp: f, t
+dwipd: l, g
+hdchk: f, t
+katri: n, w, b
+mulch: f, t
+qxmsq: f, t
+r2ar8: f, t
+reskd: f, t
+reskr: f, t
+rimmx: f, t
+rkxwp: f, t
+rxmsq: f, t
+simpl: f, t
+skach: f, t
+skewr: f, t
+skrxp: f, t
+spcop: f, t
+stlmt: f, t
+thrsk: f, t
+wkcti: f, t
+wkna8: f, t
+wknck: f, t
+wkovl: f, t
+wkpos: f, t
+wtoeg: n, t
