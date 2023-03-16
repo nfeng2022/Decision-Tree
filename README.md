@@ -13,7 +13,7 @@ A C4.5 decision tree class is implemented from the scratch using recursive appro
 
 As an illustrative example, the following figure shows the visualized decision tree for the first problem:  
 ![heart disease](./images/heart_data_c45.png)  
-:Heart disease assertion:
+:**Heart disease assertion**:
 
 To run benchmark examples, run  
     python main_script.py  
