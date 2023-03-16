@@ -1,0 +1,14 @@
+1, 2
+age: continuous
+sex: 1.0, 0.0
+chest pain type: 1.0, 2.0, 3.0, 4.0
+resting blood pressure: continuous
+serum cholestoral (mg/dl): continuous
+fasting blood sugar > 120 mg/dl: 0.0, 1.0
+resting electrocardiographic results: 0.0, 1.0, 2.0
+maximum heart rate achieved: continuous
+exercise induced angina: 0.0, 1.0
+oldpeak: continuous
+the slope of the peak exercise ST segment: 1.0, 2.0, 3.0
+number of major vessels colored by flourosopy: 0.0, 1.0, 2.0, 3.0
+thal: 3.0, 6.0, 7.0
