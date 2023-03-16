@@ -11,9 +11,9 @@ A C4.5 decision tree class is implemented using recursive approach in the file "
 1. Asserting if one person has heart disease given several nominal or numerical indicators.  
 2. Deciding how to win a chess game given several possible strategies.   
 
-As an illustrative example, the following figure shows the visualized decision tree for the two problems.  
+As an illustrative example, the following figure shows the visualized decision tree for the first problem:  
 ![heart disease](./images/heart_data_c45.png)
-![heart disease](./images/kr_vs_kp.png)
+<p style="text-align: center;">**Heart disease judgement**</p>
 
 To run benchmark examples, run
-  python main_script.py
+    python main_script.py
